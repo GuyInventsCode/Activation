@@ -2,7 +2,7 @@
 An activation .act file i made for activating software
 I have just Began and will take this work. This was a random idea so don't sue me pls. 
 Although it would be great if someone edits the code and make it work!
-I'm a kid BTW
+I'm a kid BTW, so appreciate!
 
 # Code
 
