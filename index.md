@@ -1,12 +1,10 @@
 ## Welcome to Activation.act page
 An activation .act file i made for activating software
-### Markdown
 I have just Began and will take this work. This was a random idea so don't sue me pls. 
 Although it would be great if someone edits the code and make it work!
+I'm a kid BTW
 
-
-```markdown
-Code
+# Code
 
 # The Code is Understandable
 it isnt hard as you think its actually a understanding code. If you wanna understand then read it carefully and you will found the meaning!
