@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/GuyInventsCode/Activation/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+## Welcome to Activation.act page
+An activation .act file i made for activating software
 ### Markdown
+I have just Began and will take this work. This was a random idea so don't sue me pls. 
+Although it would be great if someone edits the code and make it work!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+Code
 
-# Header 1
-## Header 2
-### Header 3
+# The Code is Understandable
+it isnt hard as you think its actually a understanding code. If you wanna understand then read it carefully and you will found the meaning!
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/GuyInventsCode/Activation/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+#  DID YOU JUST EDITED THE CODE!?!
+Well that's lovely, if you did then do please contact me at **hobbylow97@gmail.com** and send me the edited code. And send it in the extension saved!
+If not possible becuz _Google says it virus_ then do please it in a zip or you can upload the file on (https://mediafire.com) and send me the link!
