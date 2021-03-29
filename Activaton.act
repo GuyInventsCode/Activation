@@ -1,0 +1,22 @@
+//Activation required!
+ {
+     /show "box"
+         width= 120
+         height=30
+     print="Activation Required"
+           (print=It is important to play the game! So please write here)
+              /msg print=It is important to play the game! So please write where
+      {
+          space=space
+            size=12
+      }
+ }
+//Activation processing
+(
+    /check=unity.com/ulf/98ii12hj4
+    /if %true% then %goforward;next%
+    /if %false% then print="Wrong Activation Code, Please Re-enter"
+    /if %false% then appear "box"
+    /if %confused% then redirect=sun-source.com
+)
+//Activation Completed!
